@@ -1,0 +1,12 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_9_173)">
+<circle cx="25" cy="25" r="25" fill="#2D2D2D"/>
+<circle cx="25" cy="15" r="10" fill="#FFD700"/>
+<ellipse cx="25" cy="35" rx="13" ry="10" fill="#FFD700"/>
+</g>
+<defs>
+<clipPath id="clip0_9_173">
+<rect width="50" height="50" fill="white"/>
+</clipPath>
+</defs>
+</svg>
